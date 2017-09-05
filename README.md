@@ -1,4 +1,4 @@
-# Liquid Incantor Book
+# Liquid Incanter Book
 
 Nothing to see yet, but soon there will be
 
