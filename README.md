@@ -1,6 +1,14 @@
 # Liquid Incanter Book
 
-Nothing to see yet, but soon there will be
+This as a sample project to show how Liquid can be used to integrate with other projects, in this case the statistics and plotting library [Incanter](https://github.com/incanter/incanter)
+
+Just clone this project and run:
+
+    lein liq
+
+(requires leiningen)
+
+This will start Liquid with Incanter import. The first page is an interactive guide. Have fun!
 
 ## License
 

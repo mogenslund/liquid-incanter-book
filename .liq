@@ -6,3 +6,5 @@
             [dk.salza.liq.logging :as logging]
             [dk.salza.liq.tools.util :as util])
   (:use [incanter core stats charts io datasets]))
+
+(editor/find-file (.getCanonicalPath (clojure.java.io/file "./doc/intro.md")))
